@@ -58,18 +58,24 @@ Usando ✨**HTML✨**resuelve los problemas que se presentan a continuación.
   <img width="200" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/2.png" alt="p">
 </p>
 
-  i. **El lenguaje de las cadenas que tienen un número par de bes**.
-  ii. **El lenguaje de las cadenas que comienzan con b y terminan con ba**.
-  iii. <p align="left">
+
+i. **El lenguaje de las cadenas que tienen un número par de bes**.
+
+ii. **El lenguaje de las cadenas que comienzan con b y terminan con ba**.
+
+iii. <p align="left">
   <img width="200" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/3.png" alt="4.3">
 </p>
-  iv. <p align="center">
+
+iv. <p align="center">
   <img width="200" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/4.png" alt="4.4">
 </p>
-  v. <p align="center">
+
+v. <p align="center">
   <img width="200" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/5.png" alt="4.5">
 </p>
-  vi. <p align="center">
+
+vi. <p align="center">
   <img width="200" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/6.png" alt="4.6">
 </p>
 
@@ -81,16 +87,19 @@ Usando ✨**HTML✨**resuelve los problemas que se presentan a continuación.
   <img width="200" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/7.png" alt="5a">
 </p>
 
-  i. <p align="left">
+i. <p align="left">
   <img width="200" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/8.png" alt="5.1">
 </p>
-  ii. <p align="center">
+
+ii. <p align="center">
   <img width="200" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/9.png" alt="5.2">
 </p>
-  iii. <p align="center">
+
+iii. <p align="center">
   <img width="200" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/10.png" alt="5.3">
 </p>
-  iv. <p align="center">
+
+iv. <p align="center">
   <img width="200" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/11.png" alt="5.4">
 </p>
 
@@ -114,15 +123,18 @@ Usando ✨**HTML✨**resuelve los problemas que se presentan a continuación.
 
 > Encontrar GIC regulares que generen los siguientes lenguajes:
 
-  i. <p align="left">
+i. <p align="left">
   <img width="200" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/14.png" alt="7.1">
 </p>
-  ii. <p align="center">
+
+ii. <p align="center">
   <img width="200" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/15.png" alt="7.2">
 </p>
-  iii. <p align="center">
+
+iii. <p align="center">
   <img width="200" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/16.png" alt="7.3">
 </p>
-  iv. <p align="center">
+
+iv. <p align="center">
   <img width="200" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/17.png" alt="7.4">
 </p>
