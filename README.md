@@ -30,7 +30,7 @@ Usando ✨**HTML✨**resuelve los problemas que se presentan a continuación.
 ## 3.
 
 <p align="center">
-  <img width="200" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/3.png" alt="p3">
+  <img width="600" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/3.png" alt="p3">
 </p>
 
 ## 4.
