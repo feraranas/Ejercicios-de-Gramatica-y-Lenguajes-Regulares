@@ -7,7 +7,9 @@
 ## Solucion:
 El archivo "ProblemarioLenguajesRegulares.pdf" contiene la solución a los 7 problemas.
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+<p align="left">
+  <img width="250" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/0.svg" alt="p0">
+</p>
 
 ### Instrucciones
 
