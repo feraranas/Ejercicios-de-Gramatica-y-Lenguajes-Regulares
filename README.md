@@ -1,4 +1,4 @@
-# Ejercicios-de-Gramatica-y-Lenguajes-Regulares
+# Ejercicios de Gramatica y Lenguajes Regulares
 
 7 Ejercicios para practicar sobre Gramáticas Independientes de Contexto (GICs) y Lenguajes regulares
 
@@ -8,7 +8,7 @@
 El archivo "ProblemarioLenguajesRegulares.pdf" contiene la solución a los 7 problemas.
 
 <p align="left">
-  <img width="50" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/0.svg" alt="p0">
+  <img width="100" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/0.svg" alt="p0">
 </p>
 
 ### Instrucciones
