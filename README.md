@@ -53,6 +53,6 @@ Usando ✨**HTML✨**resuelve los problemas que se presentan a continuación.
 
 ## 7.
 
-<p align="left">
+<p align="center">
   <img width="200" src="https://github.com/feraranas/Ejercicios-de-Gramatica-y-Lenguajes-Regulares/blob/secundario/7.png" alt="p7">
 </p>
